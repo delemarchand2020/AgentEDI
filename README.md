@@ -40,3 +40,6 @@ Voici les principaux composants et fonctionnalités abordés:
 - **SVM (Support Vector Machine)** : Modèle d'apprentissage supervisé utilisé pour la classification et la régression.
 
 Ce résumé offre une vue d'ensemble exhaustive des objectifs, de l'architecture, des méthodes utilisées, et des résultats obtenus dans le projet.
+
+**NB** : ce projet s'inscrit dans le cadre d'un mémoire de maîtrise en IA dont la structure est la suivante :
+![Structure mémoire EDI](https://raw.githubusercontent.com/delemarchand2020/AgentEDI/main/Structure_memoire_Denis_Lemarchand_Agent_EDI.png)
