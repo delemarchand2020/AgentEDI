@@ -41,5 +41,22 @@ Voici les principaux composants et fonctionnalités abordés:
 
 Ce résumé offre une vue d'ensemble exhaustive des objectifs, de l'architecture, des méthodes utilisées, et des résultats obtenus dans le projet.
 
-**NB** : ce projet s'inscrit dans le cadre d'un mémoire de maîtrise en IA dont la structure est la suivante :
+**NB** : ce projet s'inscrit dans le cadre d'un mémoire de maîtrise en IA.
+
+### Sujet et résumé du sujet de recherche
+#### Sujet
+Pour une IA plus responsable dans le domaine des ressources humaines, détection et analyse des biais dans le processus de recrutement des candidats et dans l'évaluation de performances des employés.
+#### Résumé
+Dans le secteur des ressources humaines (RH), l'intégration de l'intelligence artificielle (IA) dans les processus de recrutement et d'évaluation de la performance devient de plus en plus courante. Cela soulève des interrogations sur la capacité à identifier les biais, qu'ils soient introduits de manière intentionnelle ou non, dans les systèmes automatiques impliquant des IA. L'importance de ces questions éthiques est reconnue et prise très au sérieux par la communauté scientifique en IA.
+
+Le sujet de cette recherche s'aligne avec ce futur proche où des agents intelligents pourraient se substituer aux humains,  totalement ou en partie, dans la conduite des entretiens de recrutement ou d'évaluation de la performance.
+
+Avec l'utilisation d'agents IA dans un contexte RH:
+- Quelles sont les menaces pour l'équité ?
+- Quelles sont les meilleures approches pour détecter les biais et prendre des mesures correctives ?
+- Quelles sont les solutions à utiliser dans la mise en oeuvre des agents IA pour parer à ces menaces ?
+
+Autant de questions auxquelles nous tenterons de répondre dans ce travail de recherche.
+
+La structure du mémoire est la suivante :
 ![Structure mémoire EDI](https://raw.githubusercontent.com/delemarchand2020/AgentEDI/main/Structure_memoire_Denis_Lemarchand_Agent_EDI.png)
