@@ -41,10 +41,10 @@ Voici les principaux composants et fonctionnalités abordés:
 
 Ce résumé offre une vue d'ensemble exhaustive des objectifs, de l'architecture, des méthodes utilisées, et des résultats obtenus dans le projet.
 
-**NB** : ce projet s'inscrit dans le cadre d'un mémoire de maîtrise en IA.
+**NB** : ce projet s'inscrit dans le cadre d'un mémoire de maîtrise en IA décrit ci-dessous.
 
-### Sujet et résumé du sujet de recherche
-#### Sujet
+### Présentation du sujet de recherche
+#### Titre
 Pour une IA plus responsable dans le domaine des ressources humaines, détection et analyse des biais dans le processus de recrutement des candidats et dans l'évaluation de performances des employés.
 #### Résumé
 Dans le secteur des ressources humaines (RH), l'intégration de l'intelligence artificielle (IA) dans les processus de recrutement et d'évaluation de la performance devient de plus en plus courante. Cela soulève des interrogations sur la capacité à identifier les biais, qu'ils soient introduits de manière intentionnelle ou non, dans les systèmes automatiques impliquant des IA. L'importance de ces questions éthiques est reconnue et prise très au sérieux par la communauté scientifique en IA.
